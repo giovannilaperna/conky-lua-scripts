@@ -1,3 +1,5 @@
+#!/usr/bin/lua
+
 os.setlocale("C")
 local https = require( "ssl.https" )
 local json = require("cjson")
